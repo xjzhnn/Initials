@@ -10,5 +10,8 @@
 
 #### 效果如图
 
-![1572688749643](C:\Users\admin.DESKTOP-A74CM2R\AppData\Roaming\Typora\typora-user-images\1572688749643.png)
 
+
+<img src='images/1.png' title='images' style='max-width:600px'></img>
+
+<img src='images/2.png' title='images' style='max-width:600px'></img>
