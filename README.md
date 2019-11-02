@@ -10,7 +10,7 @@
 
 #### 效果如图
 
-![](C:\Users\admin.DESKTOP-A74CM2R\Desktop\微信图片_20191102171458.png)
+![<https://github.com/xjzhnn/Initials/blob/master/pic1.png>]()
 
-![](C:\Users\admin.DESKTOP-A74CM2R\Desktop\微信图片_20191102171505.png)
+![<https://github.com/xjzhnn/Initials/blob/master/pic2.png>]()
 
