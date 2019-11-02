@@ -10,7 +10,5 @@
 
 #### 效果如图
 
-![<https://github.com/xjzhnn/Initials/blob/master/pic1.png>]()
-
-![<https://github.com/xjzhnn/Initials/blob/master/pic2.png>]()
+![1572688749643](C:\Users\admin.DESKTOP-A74CM2R\AppData\Roaming\Typora\typora-user-images\1572688749643.png)
 
